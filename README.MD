@@ -33,7 +33,7 @@ JAR should be created in target folder
 ### Running 'Users Service"
 
 
-1. Run command in root folder: docker-compose up
+1. Run command in root folder: docker-compose up --build
 2. Open swagger ui in browser: http://localhost:8081/swagger-ui/
 3. Call /users/ endpoint for login e.g. octocat, lucas
 4. Call /loginCallingNumber/ endpoint for checking number of executed API call for given login

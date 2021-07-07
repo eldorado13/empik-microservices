@@ -16,13 +16,12 @@ import javax.persistence.Table;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public
-class LoginCalling {
+public class LoginCalling {
 
     @Id
     @Column(name = "LOGIN")
-    String login;
+    private String login;
 
     @Column(name = "REQUEST_COUNT")
-    Integer requestCount;
+    private Integer requestCount;
 }
