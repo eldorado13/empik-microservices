@@ -31,7 +31,7 @@ JAR should be created in target folder
 
 ## Users Service
 
-### Running 'Users Service"
+### Running 'Users Service'
 
 
 1. Run command in root folder: docker-compose up --build
