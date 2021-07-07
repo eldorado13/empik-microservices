@@ -71,13 +71,11 @@ Technology
 - Spring Boot
 - Spring Data JPA
 - H2 Database
-= PostGresSQL
-- JUnit 5/Jupiter
-- Mockito
+- PostgreSQL
 - Docker
-- OpenAPI 3.0/Swagger UI
+- Swagger
 - Lombok
 
 Ports:
-8081 - User Service (using H2)
-8082 - User Service (using postgresql)
+8081 - User Service (using postgresql)
+8082 - User Service (using H2)
