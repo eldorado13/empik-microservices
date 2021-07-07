@@ -15,6 +15,7 @@ Required software installed on your operating system:
 2. Maven
 3. Git
 4. Intellij IDEA
+5. Docker
 ```
 
 ### Installing
